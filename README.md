@@ -1,4 +1,4 @@
-# Pr-cticas_URIEL_TAPIA_MAX1000
+# Prácticas_URIEL_TAPIA_MAX1000
 Practicas muy interesantes donde nos enseñan a usar las características de la MAX1000.
 
 Practica1 - Descripción y simulación de un contador binario de 8 bits descrito en VHDL con una tarjeta FPGA Arrow MAX 1000.
